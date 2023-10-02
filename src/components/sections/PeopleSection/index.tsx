@@ -114,7 +114,7 @@ const PeopleSection = () => {
                                     <Image src="/images/sonny-1.png" alt="sonny" width={290} height={400} priority className="scale-125 -translate-y-5 md:-translate-y-14 bottom-0" />
                                     <div className=" bg-[#FFFFFF]/10 backdrop-blur-md w-[320px] h-[820px] absolute top-0 -z-30" />
                                 </div>
-                                <p className="font-bold">Sonny Apriliano</p>
+                                <p className="font-bold pt-5">Sonny Apriliano</p>
                                 <p className="text-xs md:text-xl font-normal">Chief Executive Officer</p>
                             </div>
                             <div>
@@ -122,8 +122,8 @@ const PeopleSection = () => {
                                     <Image src="/images/pakyul-1.png" alt="sonny" width={290} height={400} priority className="scale-125 -translate-y-5 md:-translate-y-14 bottom-0" />
                                     <div className=" bg-[#FFFFFF]/10 backdrop-blur-md w-[320px] h-[820px] absolute top-0 -z-30" />
                                 </div>
-                                <p className="font-bold">Sonny Apriliano</p>
-                                <p className="text-xs md:text-xl font-normal">Chief Executive Officer</p>
+                                <p className="font-bold pt-5">Yulianto Kurniawan</p>
+                                <p className="text-xs md:text-xl font-normal">Chief Operating Officer</p>
                             </div>
                         </div>
                         <div className="w-full mt-20">
